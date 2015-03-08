@@ -1,5 +1,6 @@
 -- local zone = "Black Temple"
 local zoneid = 796
+-- Note: updated spell ids as of WoD 6.1 3/8/2015
 
 -- Check Compatibility
 if GridStatusRD_OldRaids.rd_version < 502 then
