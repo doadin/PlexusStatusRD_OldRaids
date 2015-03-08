@@ -11,7 +11,7 @@ CheckCompat.lua
 Karazhan.lua
 -- Zulaman.lua - converted to dungeon
 Serpent.lua
-Eye.lua
+TempestKeep.lua
 Hyjal.lua
 BlackTemple.lua
 Sunwell.lua
