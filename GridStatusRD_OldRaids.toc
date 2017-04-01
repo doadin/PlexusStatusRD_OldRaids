@@ -1,4 +1,4 @@
-## Interface: 70000
+## Interface: 70200
 ## Title: GridStatusRaidDebuff(OldRaids)
 ## Notes: Debuff List for BC and WotLK
 ## Author: Stassart (Treliss-Proudmoore-US)
