@@ -1,0 +1,27 @@
+## Interface: 70200
+## Title: GridStatusRaidDebuff(OldRaids)
+## Notes: Debuff List for BC and WotLK
+## Author: Stassart (Treliss-Proudmoore-US)
+## Version: 7.0
+## Grid Author: Phanx, Pastamancer, Maia
+## Dependencies: GridStatusRaidDebuff
+
+CheckCompat.lua
+-- BC
+Karazhan.lua
+-- Zulaman.lua - converted to dungeon
+Serpent.lua
+TempestKeep.lua
+Hyjal.lua
+BlackTemple.lua
+Sunwell.lua
+-- WotLK
+Naxxramas.lua
+Obsidian.lua
+EyeEternity.lua
+Ulduar.lua
+TrialCrusader.lua
+Archavon.lua
+IcecrownCitadel.lua
+RubySanctum.lua
+
