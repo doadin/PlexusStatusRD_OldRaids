@@ -1,5 +1,5 @@
 -- local zone = "Tempest Keep"
-local zoneid = 782
+local zoneid = 334
 
 -- Check Compatibility
 if GridStatusRD_OldRaids.rd_version < 502 then

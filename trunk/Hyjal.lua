@@ -1,5 +1,5 @@
 -- local zone = "Hyjal Summit"
-local zoneid = 775
+local zoneid = 329
 
 -- Check Compatibility
 if GridStatusRD_OldRaids.rd_version < 502 then

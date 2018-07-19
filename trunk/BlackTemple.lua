@@ -1,5 +1,5 @@
 -- local zone = "Black Temple"
-local zoneid = 796
+local zoneid = 340
 -- Note: updated spell ids as of WoD 6.1 3/8/2015
 
 -- Check Compatibility

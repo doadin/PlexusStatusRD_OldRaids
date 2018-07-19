@@ -1,5 +1,5 @@
 -- local zone = "Sunwell Plateau"
-local zoneid = 789
+local zoneid = 335
 
 -- Check Compatibility
 if GridStatusRD_OldRaids.rd_version < 502 then

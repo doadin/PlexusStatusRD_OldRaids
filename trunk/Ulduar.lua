@@ -1,5 +1,5 @@
 -- local zone = "Ulduar"
-local zoneid = 529
+local zoneid = 147
 
 -- Check Compatibility
 if GridStatusRD_OldRaids.rd_version < 502 then

@@ -1,5 +1,5 @@
 -- local zone = "Naxxramas"
-local zoneid = 535
+local zoneid = 163
 
 -- Check Compatibility
 if GridStatusRD_OldRaids.rd_version < 502 then

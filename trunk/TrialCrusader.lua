@@ -1,5 +1,5 @@
 -- zone = "Trial of the Crusader"
-local zoneid = 543
+local zoneid = 172
 
 -- Check Compatibility
 if GridStatusRD_OldRaids.rd_version < 502 then

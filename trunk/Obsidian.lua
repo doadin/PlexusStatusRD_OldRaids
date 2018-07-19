@@ -1,5 +1,5 @@
 -- local zone = "The Obsidian Sanctum"
-local zoneid = 531
+local zoneid = 155
 
 -- Check Compatibility
 if GridStatusRD_OldRaids.rd_version < 502 then
