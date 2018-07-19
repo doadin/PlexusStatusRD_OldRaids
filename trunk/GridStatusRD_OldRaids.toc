@@ -2,7 +2,7 @@
 ## Title: GridStatusRaidDebuff(OldRaids)
 ## Notes: Debuff List for BC and WotLK
 ## Author: Stassart (Treliss-Proudmoore-US)
-## Version: 8.0.1.1
+## Version: 8.0.1.2
 ## Grid Author: Phanx, Pastamancer, Maia
 ## Dependencies: GridStatusRaidDebuff
 
