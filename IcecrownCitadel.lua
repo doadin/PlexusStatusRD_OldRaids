@@ -1,5 +1,5 @@
 -- local zone = "Icecrown Citadel"
-local zoneid = 604
+local zoneid = 186
 
 -- Check Compatibility
 if GridStatusRD_OldRaids.rd_version < 502 then

@@ -1,5 +1,5 @@
 -- local zone = "Serpentshrine Cavern"
-local zoneid = 780
+local zoneid = 332
 
 -- Check Compatibility
 if GridStatusRD_OldRaids.rd_version < 502 then

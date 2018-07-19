@@ -1,5 +1,5 @@
 -- local zone = "The Ruby Sanctum"
-local zoneid = 609
+local zoneid = 200
 
 -- Check Compatibility
 if GridStatusRD_OldRaids.rd_version < 502 then

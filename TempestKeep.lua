@@ -1,6 +1,6 @@
 -- local zone = "Tempest Keep"
 -- AKA, "The Eye"
-local zoneid = 782
+local zoneid = 334
 -- Note: updated spell IDs as of WoD 6.1 3/7/2015
 
 -- Check Compatibility

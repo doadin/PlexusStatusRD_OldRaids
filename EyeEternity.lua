@@ -1,5 +1,5 @@
 -- local zone = "The Eye of Eternity"
-local zoneid = 527
+local zoneid = 141
 -- Note: confirmed spell IDs as of WoD 6.1 3/8/2015
 
 -- Check Compatibility

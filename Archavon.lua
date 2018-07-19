@@ -1,5 +1,5 @@
 -- local zone = "Vault of Archavon"
-local zoneid = 532
+local zoneid = 156
 -- Note: updated spell ids as of WoD 6.1 3/7/2015
 
 -- Check Compatibility
