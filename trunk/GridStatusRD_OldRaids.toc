@@ -7,15 +7,15 @@
 ## Dependencies: Grid, GridStatusRaidDebuff
 
 CheckCompat.lua
--- BC
+
 Karazhan.lua
--- Zulaman.lua - converted to dungeon
+
 Serpent.lua
 TempestKeep.lua
 Hyjal.lua
 BlackTemple.lua
 Sunwell.lua
--- WotLK
+
 Naxxramas.lua
 Obsidian.lua
 EyeEternity.lua
