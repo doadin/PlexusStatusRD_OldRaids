@@ -4,7 +4,7 @@
 ## Author: Stassart (Treliss-Proudmoore-US),tptbk(Doadin-Malorne-US)
 ## Version: 8.2.0.0
 ## Grid Author: Phanx, Pastamancer, Maia
-## Dependencies: Grid, GridStatusRaidDebuff
+## OptionalDeps: Grid, Plexus, GridStatusRaidDebuff
 
 CheckCompat.lua
 
