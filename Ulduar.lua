@@ -1,11 +1,6 @@
 -- local zone = "Ulduar"
 local zoneid = 147
 
--- Check Compatibility
-if GridStatusRD_OldRaids.rd_version < 502 then
-	return
-end
-
 --zoneid, debuffID, order, icon_priority, color_priority, timer, stackable, color, default_disable, noicon
 
 --Trash

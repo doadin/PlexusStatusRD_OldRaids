@@ -1,12 +1,16 @@
-## Interface: 90001
-## Title: GridStatusRaidDebuff(OldRaids)
+#@retail@
+## Interface: 90002
+#@end-retail@
+#@non-retail@
+## Interface: 11305
+#@end-non-retail@
+## Title: PlexusStatusRaidDebuff(OldRaids)
 ## Notes: Debuff List for BC and WotLK
-## Author: Stassart (Treliss-Proudmoore-US),Doadin(Doadin-Malorne-US)
-## Version: 9.0.0.0
+## Author: Stassart (Treliss-Proudmoore-US),Doadin
+## Version: @project-version@
 ## Grid Author: Phanx, Pastamancer, Maia
 ## OptionalDeps: Grid, Plexus, GridStatusRaidDebuff
-
-CheckCompat.lua
+## X-Curse-Project-ID: 90159
 
 Karazhan.lua
 
@@ -24,4 +28,3 @@ TrialCrusader.lua
 Archavon.lua
 IcecrownCitadel.lua
 RubySanctum.lua
-

@@ -1,11 +1,6 @@
 -- local zone = "Hyjal Summit"
 local zoneid = 329
 
--- Check Compatibility
-if GridStatusRD_OldRaids.rd_version < 502 then
-	return
-end
-
 --zoneid, debuffID, order, icon_priority, color_priority, timer, stackable, color, default_disable, noicon
 
 --Winterchill
