@@ -9,7 +9,7 @@
 ## Author: Stassart (Treliss-Proudmoore-US),Doadin
 ## Version: @project-version@
 ## Grid Author: Phanx, Pastamancer, Maia
-## OptionalDeps: Grid, Plexus, PlexusStatusRaidDebuff
+## Dependencies: Plexus, PlexusStatusRaidDebuff
 ## X-Curse-Project-ID: 90159
 
 Karazhan.lua
