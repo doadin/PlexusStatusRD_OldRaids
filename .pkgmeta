@@ -4,5 +4,5 @@ license-output: GPL.txt
 
 ignore:
  - .pkgmeta
- - README
+ - README.md
 
