@@ -1,6 +1,6 @@
 ## Interface: 90005
 ## Interface-Retail: 90005
-## Interface-Classic: 11306
+## Interface-Classic: 11307
 ## Interface-BC: 20501
 ## Title: PlexusStatusRaidDebuff(OldRaids)
 ## Notes: Debuff List for BC and WotLK
@@ -10,14 +10,22 @@
 ## Dependencies: Plexus, PlexusStatusRaidDebuff
 ## X-Curse-Project-ID: 90159
 
+#@version-bcc@
 Karazhan.lua
-
 Serpent.lua
 TempestKeep.lua
 Hyjal.lua
 BlackTemple.lua
 Sunwell.lua
+#@end-version-bcc@
 
+#@version-retail@
+Karazhan.lua
+Serpent.lua
+TempestKeep.lua
+Hyjal.lua
+BlackTemple.lua
+Sunwell.lua
 Naxxramas.lua
 Obsidian.lua
 EyeEternity.lua
@@ -26,3 +34,4 @@ TrialCrusader.lua
 Archavon.lua
 IcecrownCitadel.lua
 RubySanctum.lua
+#@end-version-retail@
