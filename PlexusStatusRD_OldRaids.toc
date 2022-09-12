@@ -2,6 +2,7 @@
 ## Interface-Retail: 90207
 ## Interface-Classic: 11403
 ## Interface-BCC: 20504
+## Interface-Wrath: 30400
 ## Title: PlexusStatusRaidDebuff(OldRaids)
 ## Notes: Debuff List for BC and WotLK
 ## Author: Stassart (Treliss-Proudmoore-US),Doadin
@@ -18,6 +19,17 @@ Hyjal.lua
 BlackTemple.lua
 Sunwell.lua
 #@end-version-bcc@
+
+#@version-wrath@
+Karazhan.lua
+Serpent.lua
+TempestKeep.lua
+Hyjal.lua
+BlackTemple.lua
+Sunwell.lua
+TrialCrusader.lua
+IcecrownCitadel.lua
+#@end-version-wrath@
 
 #@version-retail@
 Karazhan.lua
