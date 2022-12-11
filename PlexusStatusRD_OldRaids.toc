@@ -25,7 +25,7 @@ Karazhan.lua
 Serpent.lua
 TempestKeep.lua
 Hyjal.lua
-BlackTemple.lua
+#BlackTemple.lua
 Sunwell.lua
 TrialCrusader.lua
 IcecrownCitadel.lua
