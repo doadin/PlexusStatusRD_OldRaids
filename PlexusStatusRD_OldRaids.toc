@@ -11,6 +11,8 @@
 ## Dependencies: Plexus, PlexusStatusRaidDebuff
 ## X-Curse-Project-ID: 90159
 
+## IconTexture: Interface\AddOns\Plexus\Media\icon
+
 #@version-bcc@
 Karazhan.lua
 Serpent.lua
