@@ -3,6 +3,7 @@
 ## Interface-Classic: 11501
 ## Interface-BCC: 20504
 ## Interface-Wrath: 30403
+## Interface-Cata: 40400
 ## Version: @project-version@
 
 ## Title: PlexusStatusRaidDebuff(OldRaids)
@@ -33,6 +34,17 @@ Sunwell.lua
 TrialCrusader.lua
 IcecrownCitadel.lua
 #@end-version-wrath@
+
+#@version-cata@
+Karazhan.lua
+Serpent.lua
+TempestKeep.lua
+Hyjal.lua
+BlackTemple-Wrath.lua
+Sunwell.lua
+TrialCrusader.lua
+IcecrownCitadel.lua
+#@end-version-cata@
 
 #@version-retail@
 Karazhan.lua
