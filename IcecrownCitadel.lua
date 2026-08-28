@@ -1,5 +1,9 @@
 -- local zone = "Icecrown Citadel"
 local zoneid = 186
+local Plexus = _G.Plexus
+if Plexus:IsRetailWow() then
+    return
+end
 
 --zoneid, debuffID, order, icon_priority, color_priority, timer, stackable, color, default_disable, noicon
 

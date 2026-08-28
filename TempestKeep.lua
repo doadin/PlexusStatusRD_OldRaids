@@ -1,6 +1,10 @@
 -- local zone = "Tempest Keep"
 -- AKA, "The Eye"
 local zoneid = 334
+local Plexus = _G.Plexus
+if Plexus:IsRetailWow() then
+    return
+end
 -- Note: updated spell IDs as of WoD 6.1 3/7/2015
 
 --zoneid, debuffID, order, icon_priority, color_priority, timer, stackable, color, default_disable, noicon

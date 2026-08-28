@@ -16,50 +16,22 @@
 
 ## IconTexture: Interface\AddOns\Plexus\Media\icon
 
-#@version-bcc@
-Karazhan.lua
-Serpent.lua
-TempestKeep.lua
-Hyjal.lua
-BlackTemple.lua
-Sunwell.lua
-#@end-version-bcc@
+## Burning Crusade
+Karazhan.lua              [AllowLoadGameType tbc, Wrath, Cata, Mists]
+Serpent.lua               [AllowLoadGameType tbc, Wrath, Cata, Mists]
+TempestKeep.lua           [AllowLoadGameType tbc, Wrath, Cata, Mists]
+Hyjal.lua                 [AllowLoadGameType tbc, Wrath, Cata, Mists]
+BlackTemple.lua           [AllowLoadGameType tbc, Wrath, Cata, Mists]
+Sunwell.lua               [AllowLoadGameType tbc, Wrath, Cata, Mists]
 
-#@version-wrath@
-Karazhan.lua
-Serpent.lua
-TempestKeep.lua
-Hyjal.lua
-BlackTemple-Wrath.lua
-Sunwell.lua
-TrialCrusader.lua
-IcecrownCitadel.lua
-#@end-version-wrath@
+## Wrath
+TrialCrusader.lua         [AllowLoadGameType Wrath, Cata, Mists ]
+IcecrownCitadel.lua       [AllowLoadGameType Wrath, Cata, Mists ]
 
-#@version-cata@
-Karazhan.lua
-Serpent.lua
-TempestKeep.lua
-Hyjal.lua
-BlackTemple-Wrath.lua
-Sunwell.lua
-TrialCrusader.lua
-IcecrownCitadel.lua
-#@end-version-cata@
-
-#@version-retail@
-Karazhan.lua
-Serpent.lua
-TempestKeep.lua
-Hyjal.lua
-BlackTemple.lua
-Sunwell.lua
-Naxxramas.lua
-Obsidian.lua
-EyeEternity.lua
-Ulduar.lua
-TrialCrusader.lua
-Archavon.lua
-IcecrownCitadel.lua
-RubySanctum.lua
-#@end-version-retail@
+## Wrath Tier 7 8 9
+Naxxramas.lua             [AllowLoadGameType Wrath, Cata, Mists ]
+Obsidian.lua              [AllowLoadGameType Wrath, Cata, Mists ]
+EyeEternity.lua           [AllowLoadGameType Wrath, Cata, Mists ]
+Ulduar.lua                [AllowLoadGameType Wrath, Cata, Mists ]
+Archavon.lua              [AllowLoadGameType Wrath, Cata, Mists ]
+RubySanctum.lua           [AllowLoadGameType Wrath, Cata, Mists ]
